@@ -31,6 +31,7 @@ const CoinContainer: React.FC = () => {
             }} 
             onClick={handleTap}
         >
+            <p className='click'>CLICK</p>
             {coins.map(coin => (
                 <Coin key={coin.id} x={coin.x} y={coin.y} />
             ))}
