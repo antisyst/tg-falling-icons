@@ -6,7 +6,7 @@ This project creates an interactive screen where coins fall from the top upon ta
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/falling-coins-animation.git
+    git clone https://github.com/antisyst/tg-falling-icons.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -22,7 +22,7 @@ This project creates an interactive screen where coins fall from the top upon ta
     ```bash
     npm start
     ```
-2. Open your browser and go to `http://localhost:3000`.
+2. Open your browser and go to `http://localhost:5173/`.
 
 ## Notes
 - The project is optimized for mobile platforms.
