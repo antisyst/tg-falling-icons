@@ -10,7 +10,7 @@ This project creates an interactive screen where coins fall from the top upon ta
     ```
 2. Navigate to the project directory:
     ```bash
-    cd falling-coins-animation
+    cd tg-falling-icons
     ```
 3. Install dependencies:
     ```bash
