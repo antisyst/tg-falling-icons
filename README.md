@@ -22,7 +22,7 @@ This project creates an interactive screen where coins fall from the top upon ta
     ```bash
     npm start
     ```
-2. Open your browser and go to `http://localhost:5173/`.
+2. And after click to `http://localhost:5173/` on your terminal.
 
 ## Notes
 - The project is optimized for mobile platforms.
